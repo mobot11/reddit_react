@@ -1,0 +1,27 @@
+{
+  "name": "reactify",
+  "version": "0.1.0",
+  "description": "reactify a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Moberg",
+  "license": "MIT",
+  "devDependencies": {
+    "body-parser": "^1.13.3",
+    "browserify": "^11.0.1",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-react": "^3.0.1",
+    "gulp-webpack": "^1.5.0",
+    "jsx-loader": "^0.13.2",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "marked": "^0.3.5"
+  }
+}
